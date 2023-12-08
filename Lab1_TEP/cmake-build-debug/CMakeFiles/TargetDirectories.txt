@@ -1,0 +1,3 @@
+C:/Users/mwojc/CLionProjects/Lab1_TEP/cmake-build-debug/CMakeFiles/Lab1_TEP.dir
+C:/Users/mwojc/CLionProjects/Lab1_TEP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mwojc/CLionProjects/Lab1_TEP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
